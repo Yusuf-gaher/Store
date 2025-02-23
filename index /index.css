@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+.myh {
+    color: #2bcd16;
+    font-size: 26px;
+}
+.img1 {
+    max-width: 250px;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.p1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #2aa414; /* لون أحمر مميز للسعر */
+    margin-top: 10px;
+}
